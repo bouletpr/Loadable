@@ -9,7 +9,7 @@
             "email": "morgan.politano@wanadoo.fr"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
 		"php": ">=5.4"
     },
