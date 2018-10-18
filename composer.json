@@ -1,0 +1,24 @@
+{
+    "name": "bouletpr/loadable",
+    "description": "Create loadable elements",
+    "keywords": ["load"],
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Morgan Politano",
+            "email": "morgan.politano@wanadoo.fr"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "Bouletpr\\Loadable\\": "src/"
+        }
+    }
+}
