@@ -1,4 +1,6 @@
-<?php namespace Bouletpr\Loadable;
+<?php
+
+namespace Loadable;
 
 /**
 *  A sample class
